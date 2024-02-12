@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 def main():
     # Пример кортежа целых чисел
     my_tuple = (1, 2, 4, 7, 8, 10, 12, 15, 16, 20)
